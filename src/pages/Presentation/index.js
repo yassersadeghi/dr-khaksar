@@ -92,7 +92,7 @@ function Presentation() {
               px={{ xs: 6, lg: 12 }}
               mt={1}
             >
-              PhD in software systems & Faculty memeber.
+              PhD in software systems and Faculty memeber.
             </MKTypography>
           </Grid>
         </Container>
